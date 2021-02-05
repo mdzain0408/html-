@@ -1,0 +1,71 @@
+.header2{
+   text-align: center;
+   background-color:gray;
+   line-height: 20ch;
+  
+
+
+}
+
+h1{
+
+color: red;
+position: absolute; 
+top: 100;
+display:flex;
+padding-right:140px;
+text-align: center;
+justify-content: space-around;
+
+
+
+ }
+
+.header{
+
+   
+   display: flex;
+   justify-content: space-between;
+   
+   text-align: right;
+   position: absolute;
+   top: 20;
+    margin-right: 30px;
+
+
+
+
+
+
+ }
+
+ .origami{
+background-color: rgb(227, 235, 155);
+border: solid;
+border-radius: 10%;
+width: 400;
+height: 250;
+
+ }
+ .grid{
+    background-color: rgb(166, 230, 230);
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+
+ }
+ .image{
+   text-align: center;
+   border: solid;
+   width: 200;
+   height: 105;
+   border-radius: 10%;
+   margin: auto;
+  
+   
+
+
+
+ }
